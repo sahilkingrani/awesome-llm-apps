@@ -126,7 +126,7 @@ class PolicyEngine:
 
 ### Action Interception
 
-Tools are wrapped with governance checks:
+Tool are wrapped with governance checks:
 
 ```python
 def governed_tool(func):
